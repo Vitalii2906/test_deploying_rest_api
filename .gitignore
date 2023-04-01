@@ -7,7 +7,7 @@
 *.pyc
 __pycache__/
 local_settings.py
-Django/db.sqlite3
+db.sqlite3
 db.sqlite3-journal
 media
 
@@ -71,7 +71,7 @@ cover/
 # Translations
 *.mo
 
-# Django stuff:
+# django stuff:
 
 # Flask stuff:
 instance/
@@ -306,7 +306,7 @@ fabric.properties
 
 # Translations
 
-# Django stuff:
+# django stuff:
 
 # Flask stuff:
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 # exit on error
-set -o errexit
+$ErrorActionPreference = 'Stop'
 
 pip install -r requirements.txt
 
